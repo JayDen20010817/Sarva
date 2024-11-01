@@ -44,7 +44,7 @@ python Features_Acquisition.py
 python Prepare_Data.py
 ```
 
-### 🤗Model Fintune
+### 😄Model Fintune
 ```
 sh ./scripts/v1_5/Finetune_MSD_task_Lora.sh
 ```
