@@ -19,7 +19,7 @@ To the best of our knowledge, we are the first to explore the sentiment reasonin
 
 ## 😅 Sentiment Instruction
 <p align="center">
-  <img src="./figs/reason_way.png" width="400" height="350">
+  <img src="./figs/reason_way.png" width="400" height="300">
   <img src="./figs/augmentation.png" width="400" height="350">
 </p>
 
