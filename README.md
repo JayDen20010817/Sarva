@@ -20,7 +20,7 @@ To the best of our knowledge, we are the first to explore the sentiment reasonin
 ## 😅 Sentiment Instruction
 <p align="center">
   <img src="./figs/reason_way.png" width="400" height="300">
-  <img src="./figs/augmentation.png" width="400" height="350">
+  <img src="./figs/augmentation.png" width="400" height="300">
 </p>
 
 Therefore, to better aid MLLMs in performing complex emotional reasoning for understanding sarcastic semantics, we have designed three novel guidance strategies: **Chain of Emotional Contradiction (CoEC)**, **Graph of Emotional Contradiction (GoEC)**, and **Bagging of Emotional Contradiction (BoEC)**. These strategies are designed to prompt MLLMs to detect sarcasm in humans by incorporating both sequential and non-sequential prompting approaches.
