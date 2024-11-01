@@ -17,15 +17,15 @@ To the best of our knowledge, we are the first to explore the sentiment reasonin
   <img src="./figs/framework.png" width="700 height="700">
 </p>
 
-## 😅 Sentiment Instruction
+## 😅 Sentiment Instruction and Augmented Samples
 <p align="center">
   <img src="./figs/reason_way.png" width="400" height="300">
   <img src="./figs/augmentation.png" width="400" height="300">
 </p>
 
-Therefore, to better aid MLLMs in performing complex emotional reasoning for understanding sarcastic semantics, we have designed three novel guidance strategies: **Chain of Emotional Contradiction (CoEC)**, **Graph of Emotional Contradiction (GoEC)**, and **Bagging of Emotional Contradiction (BoEC)**. These strategies are designed to prompt MLLMs to detect sarcasm in humans by incorporating both sequential and non-sequential prompting approaches.
+Therefore, to better aid MLLMs in performing complex emotional reasoning for understanding sarcastic semantics, we have designed three novel guidance strategies: **Chain of Emotional Contradiction (CoEC)**, **Graph of Emotional Contradiction (GoEC)**, and **Bagging of Emotional Contradiction (BoEC)**. These strategies are designed to prompt MLLMs to detect sarcasm in humans by incorporating both sequential and non-sequential prompting approaches. To further analyze the samples enhanced by the Reentry Augmentation module, we conduct a qualitative analysis of the generated augmented samples. Specifically, we select four examples to present both their original and augmented forms.
 
-## 🤡 Augmented Samples
+## 🤡 
 
 
-To further analyze the samples enhanced by the Reentry Augmentation module, we conduct a qualitative analysis of the generated augmented samples. Specifically, we select four examples to present both their original and augmented forms.
+
