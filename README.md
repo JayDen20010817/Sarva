@@ -17,6 +17,9 @@ To the best of our knowledge, we are the first to explore the sentiment reasonin
   <img src="./figs/framework.png" width="700 height="700">
 </p>
 
-## 😅
+## 😅 Sentiment Instruction
+<p align="center">
+  <img src="./figs/framework.png" width="700 height="700">
+</p>
 
 ## 🤡
