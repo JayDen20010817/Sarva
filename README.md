@@ -29,7 +29,7 @@ In the following, we will guide you how to use this repository step by step 🤗
 ## 🤡 Quickstart
 
 ### 🤪Datasets Preparation and Environment Setup👈
-MMSD dataset [[Link](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection.git)]	 </br>
+MMSD dataset [[Link]](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection.git)	 </br>
 MMSD2.0 dataset [Link](https://github.com/JoeYing1019/MMSD2.0.git) </br>
 MultiBully dataset [Link](https://github.com/Jhaprince/MultiBully.git) </br>
 
