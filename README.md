@@ -9,5 +9,5 @@ This repository is the official codebase of "**Sarva: Multimodal Sarcasm Detecti
 To the best of our knowledge, we are the first to explore the sentiment reasoning capability of Large Vision-Language Models (LVMs) for the task of multimodal sarcasm detection, addressing the common challenges faced by current multimodal sarcasm detection models through MLLMs.
 
 <p align="center">
-  <img src="./figs/introduction2.png" width="400 height="400">
+  <img src="./figs/introduction2.png" width="700 height="700">
 </p>
