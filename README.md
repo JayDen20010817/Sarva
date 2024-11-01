@@ -28,13 +28,13 @@ To better aid MLLMs in performing complex emotional reasoning for understanding 
 
 ## 🤡 Quickstart
 
-### Datasets Preparation
+### 🤗Datasets Preparation and Environment Setup
 MMSD dataset--[Link](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection.git)	 </br>
 MMSD2.0 dataset--[Link](https://github.com/JoeYing1019/MMSD2.0.git) </br>
 MultiBully dataset--[Link](https://github.com/Jhaprince/MultiBully.git) </br>
 
-### Setup
 Before you start, make sure you install the following packages:
 ```
 pip install -r requirements.txt
 ```
+
