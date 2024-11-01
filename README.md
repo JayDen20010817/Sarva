@@ -13,12 +13,12 @@ In the following, we will guide you how to use this repository step by step 🤗
   <img src="./figs/introduction2.png" width="700 height="700">
 </p>
 
-## 🤓 Overview
+## 😅 Overview
 <p align="center">
   <img src="./figs/framework.png" width="700 height="700">
 </p>
 
-## 😅 Sentiment Instruction and Augmented Samples
+## 🤓 Sentiment Instruction and Augmented Samples
 <p align="center">
   <img src="./figs/reason_way.png" width="400" height="300">
   <img src="./figs/augmentation.png" width="400" height="300">
