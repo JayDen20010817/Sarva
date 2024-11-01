@@ -38,7 +38,7 @@ Before you start, make sure you install the following packages:
 pip install -r requirements.txt
 ```
 
-### 😂Data preprocessing
+### 😃Data preprocessing
 ```
 python Features_Acquisition.py
 python Prepare_Data.py
