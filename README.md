@@ -28,7 +28,7 @@ To better aid MLLMs in performing complex emotional reasoning for understanding 
 
 ## 🤡 Quickstart
 
-### 🤗Datasets Preparation and Environment Setup
+### 🤪Datasets Preparation and Environment Setup
 MMSD dataset--[Link](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection.git)	 </br>
 MMSD2.0 dataset--[Link](https://github.com/JoeYing1019/MMSD2.0.git) </br>
 MultiBully dataset--[Link](https://github.com/Jhaprince/MultiBully.git) </br>
