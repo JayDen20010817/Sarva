@@ -1,7 +1,7 @@
 # 🤣👉Sarva👈
-<!--<p align="center">
+<p align="center">
   <img src="figs/introduction1.png"> 
-</p>-->
+</p>
 
 😁✌️This repository is the official codebase of "**Sarva: Multimodal Sarcasm Detection via Bootstrapping Sarcastic Reasoning and Reentry Augmentation**"
 </br>
