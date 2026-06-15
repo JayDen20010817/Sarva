@@ -3,7 +3,7 @@
   <img src="figs/introduction1.png"> 
 </p>
 
-😁✌️This repository is the official codebase of "**Sarva: Multimodal Sarcasm Detection via Bootstrapping Sarcastic Reasoning and Reentry Augmentation**"
+😁✌️This repository is the official codebase of "**Sarva: Unlocking Multimodal Sarcasm Understanding with Bootstrapping Reasoning**"
 </br>
 </br>
 In the following, we will guide you how to use this repository step by step 🤗
